@@ -6,7 +6,7 @@
 
 💞️ Men ta'lim, restoran tizimlari va telegram botlarini yaratishda hamkorlik qilishga tayyorman.
 
-📫 Menga [emailingiz] orqali murojaat qilishingiz mumkin.
+📫 Menga [t.me/UlugbekBakhtiyorov] orqali murojaat qilishingiz mumkin.
 
 😄 Egasiga mos keladigan har qanday joyda ishlaydigan tizimlar yaratishni yoqtiraman.
 

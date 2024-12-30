@@ -1,17 +1,11 @@
-👋 Salom, men @ulugbek-bakhtiyorov
+👋 Hi, I'm @ulugbek-bakhtiyorov  
 
-👀 Men dasturlash va texnologiyalarga qiziqaman, ayniqsa, Java va Spring Boot bilan ishlash yoqadi.
+💻 Java Backend Developer with experience in creating backend systems for websites and developing efficient Telegram bots.  
 
-🌱 Hozirda sun'iy intellekt, chat-botlar va backend dasturlashni o'rganmoqdaman.
+🌱 Currently focused on mastering advanced Java frameworks, optimizing backend performance, and learning about real-time communication systems.  
 
-💞️ Men ta'lim, restoran tizimlari va telegram botlarini yaratishda hamkorlik qilishga tayyorman.
+🤝 Open to collaborating on web development projects, Telegram automation, and innovative software solutions.  
 
-📫 Menga [t.me/UlugbekBakhtiyorov] orqali murojaat qilishingiz mumkin.
+📫 Reach out to me via [t.me/UlugbekBakhtiyorov].  
 
-😄 Egasiga mos keladigan har qanday joyda ishlaydigan tizimlar yaratishni yoqtiraman.
-
-⚡ Qiziqarli fakt: . . . !
-<!---
-ulugbek-bakhtiyorov/ulugbek-bakhtiyorov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+✨ Fun fact: I enjoy solving complex backend challenges and turning ideas into functional systems.  

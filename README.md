@@ -6,6 +6,6 @@
 
 🤝 Open to collaborating on web development projects, Telegram automation, and innovative software solutions.  
 
-📫 Reach out to me via [(https://t.me/UlugbekBakhtiyorov)].  
+📫 Reach out to me via [https://t.me/UlugbekBakhtiyorov].  
 
 ✨ Fun fact: I enjoy solving complex backend challenges and turning ideas into functional systems.  
